@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "8d62c0758e5c9554",
+    "username": "rici",
+    "password": "123",
+    "expiresAt": "2026-2-28",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
