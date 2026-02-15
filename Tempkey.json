@@ -34,6 +34,13 @@
     "expiresAt": "2026-2-20",
     "allowOffline": true
     },
+   {
+    "id": "89219c429cf63edc",
+    "username": "sid",
+    "password": "123",
+    "expiresAt": "2026-2-20",
+    "allowOffline": true
+    },
   {
     "id": "android_device_id_2",
     "username": "user2",
